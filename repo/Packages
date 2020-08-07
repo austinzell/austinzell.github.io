@@ -1,0 +1,14 @@
+Package: com.austinzell.lockette
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Austin Zell
+Depends: firmware (>12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.austinzell.lockette_0.0.1_iphoneos-arm.deb
+Size: 4000
+MD5sum: cc3696702ffcc573a57031af9266b2e2s
+Description: Changing how you lock your iDevice. Tap twice!
+Name: Lockette
+Author: Austin Zell
+Depiction: https://austinzell.github.io/repo/depictions/?p=com.austinzell.lockette
+
